@@ -1,7 +1,6 @@
 "use strict";
 
-let counter = 0;
-let items = ["Phantom-jakis sigma duch","Sigma","Płakał","Nożownik","Magda Gessler","siks seven","kul gucio","femboy"];
+let counter = 0;let items = ["Płakał","Magda Gessler","6767","(nie)-cool kukiriniarz];
 
 function addPoint() {
       counter++;
